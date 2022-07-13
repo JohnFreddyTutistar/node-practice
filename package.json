@@ -1,0 +1,14 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "aqui va la descripcion del proyecto",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "John Tutistar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
